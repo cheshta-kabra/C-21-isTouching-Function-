@@ -1,1 +1,2 @@
-# C-21-isTouching-Function-
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
